@@ -1,5 +1,5 @@
-using Microsoft.EntityFrameworkCore;
 using EmployeePortalAPI.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace EmployeePortalAPI.Data;
 
@@ -11,7 +11,7 @@ public class ApplicationDbContext : DbContext
     {
     }
 
-    public DbSet<User> Users => Set<User>();
+    public DbSet<User> Users { get; set; }
 
-    public DbSet<Employee> Employees => Set<Employee>();
+    public DbSet<Employee> Employees { get; set; }
 }
