@@ -12,7 +12,7 @@ public class ApplicationDbContextFactory
             new DbContextOptionsBuilder<ApplicationDbContext>();
 
         var connectionString =
-            "server=localhost;database=EmployeePortalDB;user=root;password=root";
+            "server=localhost;port=3307;database=employeeportaldb;user=user;password=user";
 
         optionsBuilder.UseMySql(
             connectionString,

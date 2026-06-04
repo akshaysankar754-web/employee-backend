@@ -7,7 +7,6 @@ namespace EmployeePortalAPI.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-[Authorize]
 public class DashboardController : ControllerBase
 {
     private readonly ApplicationDbContext _context;
@@ -18,6 +17,7 @@ public class DashboardController : ControllerBase
     }
 
     [HttpGet]
+    [AllowAnonymous]
     public async Task<IActionResult> GetDashboard()
     {
         var totalEmployees =
