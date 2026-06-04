@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Anoop.K\\Downloads\\Angular Apps\\Employee\\employee-backend\\EmployeePortalAPI.csproj": {}
+    "C:\\Users\\Anoop.K\\Downloads\\Angular Apps\\Employee\\employee-backend\\EmployeePortalAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Anoop.K\\Downloads\\Angular Apps\\Employee\\employee-backend\\EmployeePortalAPI.csproj": {
+    "C:\\Users\\Anoop.K\\Downloads\\Angular Apps\\Employee\\employee-backend\\EmployeePortalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Anoop.K\\Downloads\\Angular Apps\\Employee\\employee-backend\\EmployeePortalAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Anoop.K\\Downloads\\Angular Apps\\Employee\\employee-backend\\EmployeePortalAPI.csproj",
         "projectName": "EmployeePortalAPI",
-        "projectPath": "c:\\Users\\Anoop.K\\Downloads\\Angular Apps\\Employee\\employee-backend\\EmployeePortalAPI.csproj",
+        "projectPath": "C:\\Users\\Anoop.K\\Downloads\\Angular Apps\\Employee\\employee-backend\\EmployeePortalAPI.csproj",
         "packagesPath": "C:\\Users\\Anoop.K\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Anoop.K\\Downloads\\Angular Apps\\Employee\\employee-backend\\obj\\",
+        "outputPath": "C:\\Users\\Anoop.K\\Downloads\\Angular Apps\\Employee\\employee-backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anoop.K\\AppData\\Roaming\\NuGet\\NuGet.Config"
